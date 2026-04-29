@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am a data + ai engineering professional with a passion for innovation and a drive to improve business outcomes. With around four years of experience in the tech industry, I have become a master of ai/ml, data science, data engineering, data management, processing, and analysis. I am skilled in Python, SQL, and Rust, and able to turn complex data sets into actionable insights and ai/ml use cases. I am also a problem solver and a team player who is always looking for ways to improve and optimize the data process. I am the perfect addition to any team looking to make the most out of their data.
+Hello, my name is Zaed Hussain, and I am a data + ai/ml engineering professional with a passion for innovation and a drive to improve business outcomes. With around four years of experience in the tech industry, I have a deep interest of artificial intelligence, machine learning, quantum computing, data science, data engineering, data management, data processing, and data analysis. I am skilled in Python, SQL, and Rust, and able to turn complex data sets into actionable insights and ai/ml use cases. I am also a problem solver and a team player who is always looking for ways to improve and optimize the data process. I am looking to join any team and to make the most out of their data.
 
 
 ## 🌐 Socials:
