@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an ai engineering professional with a passion for innovation and a drive to improve insurance outcomes. I have a deep interest of artificial intelligence, ai engineering, quantum computing, data engineering, data management, processing, and analysis. I am skilled in Python, SQL, Rust, and Go, and able to turn complex data sets into actionable insights and ai use cases. I am also a problem solver and a team player who is always looking for ways to improve and optimize the data and ai process. I am looking to join any team and to make the most out of their data.
+Hello, my name is Zaed Hussain, and I am a data engineering professional with a passion for innovation and a drive to improve insurance outcomes. I specialize in AI data infrastructure, blending traditional data engineering with applied AI. I architect scalable pipelines, vector databases, RAG systems, and develop intelligent agents for data engineering tasks.I am skilled in Python, SQL, Rust, and Go, and able to turn complex data sets into actionable insights and ai use cases. I am also a problem solver and a team player who is always looking for ways to improve and optimize the data and ai process. I am looking to join any team and to make the most out of their data.
 
 
 ## 🌐 Socials:
