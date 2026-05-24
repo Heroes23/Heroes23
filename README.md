@@ -5,7 +5,7 @@ I design and develop production AI systems, including multi-agent frameworks, re
 
 I build scalable AI infrastructure using Python and SQL, and leverage Rust and Go for high-performance backend and distributed system components. I am especially interested in AI-native systems that integrate data, memory, and reasoning into cohesive autonomous agents.
 
-My focus is on advancing AI engineering through agentic systems, LLM infrastructure, and autonomous data-driven applications in insurance. 
+My focus is on advancing AI engineering through agentic systems, LLM infrastructure, quantum mechanics/computing, and autonomous data-driven applications in insurance. 
 
 I am also a problem solver and a team player who is always looking for ways to improve and optimize the data and ai process. I am looking to join any team and to make the most out of their data.
 
