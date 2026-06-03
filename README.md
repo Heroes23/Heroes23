@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, my name is Zaed Hussain, and I am an AI Engineer focused on building intelligent systems powered by large language models and agentic architectures. 
 
-I design and develop production AI systems, including multi-agent frameworks, retrieval-augmented generation (RAG) pipelines, vector-based knowledge systems, and LLM orchestration layers. My work centers on enabling models to reason, plan, and execute complex workflows autonomously.
+I design and develop production AI systems, including multi-agent frameworks, retrieval-augmented generation (RAG) pipelines, vector-based knowledge systems, and LLM orchestration layers. My work centers on enabling models to reason, plan, and execute complex workflows autonomously within the insurance industry.
 
 I build scalable AI infrastructure using Python and SQL, and leverage Rust and Go for high-performance backend and distributed system components. I am especially interested in AI-native systems that integrate data, memory, and reasoning into cohesive autonomous agents.
 
