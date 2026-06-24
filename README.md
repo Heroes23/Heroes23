@@ -1,10 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am a Data & AI Engineer focused on building intelligent systems powered by large language models and agentic architectures.
+Hello, my name is Zaed Hussain, and I'm a Data & AI Engineer focused on building production-grade AI systems, agentic applications, and the data platforms that power them.
 
-I design and develop production AI systems, including multi-agent frameworks, retrieval-augmented generation (RAG) pipelines, vector-based knowledge systems, and LLM orchestration layers. My work centers on enabling models to reason, plan, and execute complex workflows autonomously. I build scalable data infrastructure and AI systems using Python, SQL, Rust, and Go.
+My work spans both AI Engineering and AI Data Engineering, where I design, develop, and deploy large language model (LLM) applications, multi-agent systems, retrieval-augmented generation (RAG) pipelines, vector search platforms, embedding pipelines, and AI-native data architectures. I build systems that enable models to reason, plan, use tools, retrieve knowledge, and automate complex workflows.
 
-I am especially interested in AI-native systems that integrate data, memory, and reasoning into cohesive autonomous agents. I am a problem solver and team player who is always looking for ways to improve and optimize systems. I am looking to join teams building intelligent, data-driven applications.
+I also architect scalable data platforms that support machine learning, generative AI, and autonomous systems. My experience includes batch and real-time data pipelines, streaming architectures, cloud-native infrastructure, data governance, and AI-ready data foundations that enable reliable production deployments.
 
+I enjoy solving complex problems at the intersection of software engineering, data engineering, and artificial intelligence, with a focus on building scalable, trustworthy, and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
