@@ -5,7 +5,7 @@ I design and deploy retrieval-augmented generation (RAG) architectures, vector d
 
 I also build reliable batch and streaming data pipelines, ETL/ELT workflows, and cloud data platforms (Snowflake, Databricks) that power analytics, machine learning, and AI applications. My focus is on creating scalable, production-ready data infrastructure that ensures quality, governance, and performance in regulated, data-intensive industries.
 
-I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
+I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai data engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
