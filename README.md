@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm a Data & AI Engineer focused on building production-grade data platforms, AI systems, and the infrastructure that powers intelligent applications.
+Hello, my name is Zaed Hussain, and I'm a Data Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build production-grade data infrastructure and AI-ready platforms that power intelligent systems at scale.
 
-I build scalable batch and streaming data pipelines, cloud data platforms, and modern data architectures that enable analytics, machine learning, and AI workloads.
+I design and deploy retrieval-augmented generation (RAG) architectures, vector databases, embedding pipelines, and semantic search platforms that enable LLMs to retrieve, reason over, and utilize enterprise data. I create scalable ingestion frameworks, document processing pipelines, and knowledge systems that transform unstructured data into structured, searchable intelligence. 
 
-I develop retrieval-augmented generation (RAG) pipelines, vector search platforms, embedding pipelines, LLM applications, multi-agent systems, and agentic AI solutions that transform enterprise data into intelligent, production-ready applications.
+I also build reliable batch and streaming data pipelines, ETL/ELT workflows, and cloud data platforms (Snowflake, Databricks) that power analytics, machine learning, and AI applications. My focus is on creating scalable, production-ready data infrastructure that ensures quality, governance, and performance in regulated, data-intensive industries.
 
 I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
