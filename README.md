@@ -1,9 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm an AI Engineer focused on building production-grade AI systems, agentic applications, and the ai platforms that power them.
+Hello, my name is Zaed Hussain, and I'm a Data & AI Engineer focused on building production-grade data platforms, AI systems, and the infrastructure that powers intelligent applications.
 
-I design, develop, and deploy large language model (LLM) applications, multi-agent systems, retrieval-augmented generation (RAG) pipelines, vector search platforms, embedding pipelines, and AI-native data architectures. I build systems that enable models to reason, plan, use tools, retrieve knowledge, and automate complex workflows.
+I build scalable batch and streaming data pipelines, cloud data platforms, and modern data architectures that enable analytics, machine learning, and AI workloads.
 
-I enjoy solving complex problems at the intersection of software engineering, data engineering, and artificial intelligence, with a focus on building scalable, trustworthy, and intelligent systems.
+I develop retrieval-augmented generation (RAG) pipelines, vector search platforms, embedding pipelines, LLM applications, multi-agent systems, and agentic AI solutions that transform enterprise data into intelligent, production-ready applications.
+
+I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
