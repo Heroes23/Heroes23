@@ -1,11 +1,13 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm a Data Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build scalable, production-grade data infrastructure that powers analytics, machine learning, and AI applications.
+Hello, my name is Zaed Hussain, and I'm a Data & AI Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build end-to-end AI infrastructure and data systems that power intelligent applications at scale.
 
-I design and deploy end-to-end data platforms spanning batch and real-time pipelines, data warehousing (Snowflake, Databricks), and AI-ready retrieval systems. I specialize in retrieval-augmented generation (RAG) architectures, vector databases, embedding pipelines, and semantic search platforms that enable LLMs to retrieve and reason over enterprise data at scale. I create reliable ETL/ELT workflows, data quality frameworks, cloud-native ingestion systems that transform unstructured data into structured, searchable intelligence, and how LLMs reason, agentic creation, how agents use tools, and how to build retrieval systems that integrate seamlessly with LLM workflows. 
+I design and deploy backend agent systems using LangGraph and LangChain, orchestrating multi-step reasoning, tool use, and retrieval workflows. I build agentic applications that automate complex business processes in regulated industries.
 
-My focus is on building trustworthy data infrastructure that ensures quality, governance, performance, and reliability in regulated, data-intensive industries.
+I architect RAG pipelines, vector database systems, and embedding infrastructure that enable agents to retrieve and reason over enterprise data. I create reliable ETL/ELT workflows, data quality frameworks, and cloud-native ingestion systems that transform unstructured data into structured, searchable intelligence.
 
-I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai data engineering, with a focus on building scalable, trustworthy, and intelligent systems.
+My focus is on building trustworthy, production-grade AI infrastructure that ensures quality, governance, performance, and reliability across data and AI systems.
+
+I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
