@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm a Data Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build production-grade data infrastructure and AI-ready platforms that power intelligent systems at scale.
+Hello, my name is Zaed Hussain, and I'm a Data Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build scalable, production-grade data infrastructure that powers analytics, machine learning, and AI applications.
 
-I design and deploy retrieval-augmented generation (RAG) architectures, vector databases, embedding pipelines, and semantic search platforms that enable LLMs to retrieve, reason over, and utilize enterprise data. I create scalable ingestion frameworks, document processing pipelines, and knowledge systems that transform unstructured data into structured, searchable intelligence. 
+I design and deploy end-to-end data platforms spanning batch and real-time pipelines, data warehousing (Snowflake, Databricks), and AI-ready retrieval systems. I specialize in retrieval-augmented generation (RAG) architectures, vector databases, embedding pipelines, and semantic search platforms that enable LLMs to retrieve and reason over enterprise data at scale. I create reliable ETL/ELT workflows, data quality frameworks, and cloud-native ingestion systems that transform unstructured data into structured, searchable intelligence.
 
-I also build reliable batch and streaming data pipelines, ETL/ELT workflows, and cloud data platforms (Snowflake, Databricks) that power analytics, machine learning, and AI applications. My focus is on creating scalable, production-ready data infrastructure that ensures quality, governance, and performance in regulated, data-intensive industries.
+My focus is on building trustworthy data infrastructure that ensures quality, governance, performance, and reliability in regulated, data-intensive industries.
 
 I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai data engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
