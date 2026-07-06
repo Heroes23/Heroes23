@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm a Data & AI Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build end-to-end AI infrastructure and data systems that power intelligent applications at scale.
+Hello, my name is Zaed Hussain, and I'm an AI Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build end-to-end AI infrastructure and data systems that power intelligent applications at scale.
 
 I design and deploy backend agent systems using LangGraph and LangChain, orchestrating multi-step reasoning, tool use, and retrieval workflows. I build agentic applications that automate complex business processes in regulated industries.
 
