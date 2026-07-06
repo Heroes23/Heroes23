@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm an AI Engineer with a background in Applied Mathematics (UIC) and Data Engineering (UChicago). I build end-to-end AI infrastructure and data systems that power intelligent applications at scale.
+Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI systems and data workflows that power agentic applications.
 
-I design and deploy backend agent systems using LangGraph and LangChain, orchestrating multi-step reasoning, tool use, and retrieval workflows. I build agentic applications that automate complex business processes in regulated industries.
+I design and build backend agent systems using LangGraph and LangChain, implementing multi-step reasoning, tool use, and retrieval workflows. I develop agentic applications that automate complex business processes by combining LLM reasoning with external systems, APIs, and structured data.
 
-I architect RAG pipelines, vector database systems, and embedding infrastructure that enable agents to retrieve and reason over enterprise data. I create reliable ETL/ELT workflows, data quality frameworks, and cloud-native ingestion systems that transform unstructured data into structured, searchable intelligence.
+I build RAG pipelines, vector database integrations, and embedding-based retrieval systems that enable LLMs to access and reason over enterprise knowledge. I also develop ETL/ELT data pipelines, data quality checks, and cloud-based ingestion workflows that transform unstructured data into structured, queryable formats for AI systems.
 
-My focus is on building trustworthy, production-grade AI infrastructure that ensures quality, governance, performance, and reliability across data and AI systems.
+My focus is on building reliable, production-grade AI systems with strong emphasis on retrieval quality, system reliability, and end-to-end performance in real-world environments.
 
 I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
