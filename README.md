@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI systems and data workflows that power agentic applications.
+Hello, my name is Zaed Hussain, and I’m a Data & AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI systems and data workflows that power agentic applications.
 
 I design and build backend agent systems using LangGraph and LangChain, implementing multi-step reasoning, tool use, and retrieval workflows. I develop agentic applications that automate complex business processes by combining LLM reasoning with external systems, APIs, and structured data.
 
