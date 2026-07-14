@@ -7,7 +7,7 @@ I build RAG pipelines, vector database integrations, and embedding-based retriev
 
 My focus is on building reliable, production-grade AI systems with strong emphasis on retrieval quality, system reliability, and end-to-end performance in real-world environments.
 
-I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems within Healthcare. 
+I enjoy solving complex problems at the intersection of software engineering, data engineering, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems within Biotech. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
