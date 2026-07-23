@@ -1,13 +1,12 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI systems and data workflows that power agentic applications.
+Hello, my name is Zaed Hussain, and I’m an AI/ML Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI and machine learning systems that solve real-world problems using predictive models, large language models, retrieval-augmented generation (RAG), and agentic AI.
 
-I design and build backend agent systems using LangGraph and LangChain, implementing multi-step reasoning, tool use, and retrieval workflows. I develop agentic applications that automate complex business processes by combining LLM reasoning with external systems, APIs, and structured data.
+My work spans the end-to-end AI lifecycle, including data engineering, model development, retrieval systems, agentic workflows, and production deployment. I design backend AI systems that integrate machine learning models, LLMs, external tools, APIs, and enterprise data to automate complex workflows and deliver intelligent decision-making.
 
-I build RAG pipelines, vector database integrations, and embedding-based retrieval systems that enable LLMs to access and reason over enterprise knowledge. I also develop ETL/ELT data pipelines, data quality checks, and cloud-based ingestion workflows that transform unstructured data into structured, queryable formats for AI systems.
+I develop RAG pipelines, vector database integrations, embedding-based retrieval systems, and multi-agent architectures that enable AI systems to access, retrieve, and reason over domain-specific knowledge. I also build scalable cloud-native data pipelines, ETL/ELT workflows, and AI infrastructure that support reliable, secure, and high-performance production applications.
 
-My focus is on building reliable, production-grade AI systems with strong emphasis on retrieval quality, system reliability, and end-to-end performance in real-world environments.
+I'm passionate about applying machine learning, deep learning, generative AI, and software engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include healthcare AI, MLOps, AI infrastructure, agentic AI, and retrieval systems within Healthcare. 
 
-I enjoy solving complex problems at the intersection of software engineering, machine learning, and ai engineering, with a focus on building scalable, trustworthy, and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
