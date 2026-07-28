@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI/ML Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI and machine learning systems that solve real-world problems using predictive models, large language models, retrieval-augmented generation (RAG), and agentic AI.
+Hello, my name is Zaed Hussain, and I’m an AI/ML and Data Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI and machine learning systems that solve real-world problems using predictive models, large language models, retrieval-augmented generation (RAG), and agentic AI.
 
 My work spans the end-to-end AI lifecycle, including data engineering, model development, retrieval systems, agentic workflows, and production deployment. I design backend AI systems that integrate machine learning models, LLMs, external tools, APIs, and enterprise data to automate complex workflows and deliver intelligent decision-making.
 
 I develop RAG pipelines, vector database integrations, embedding-based retrieval systems, and multi-agent architectures that enable AI systems to access, retrieve, and reason over domain-specific knowledge. I also build scalable cloud-native data pipelines, ETL/ELT workflows, and AI infrastructure that support reliable, secure, and high-performance production applications.
 
-I'm passionate about applying machine learning, deep learning, generative AI, and software engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include healthcare AI, MLOps, AI infrastructure, agentic AI, and retrieval systems in Healthcare.  
+I'm passionate about applying data engineering, machine learning, deep learning, generative AI, and software engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include Data, AI, ML, MLOps, AI infrastructure, agentic AI, and retrieval systems in Healthcare.  
 
 
 ## 🌐 Socials:
