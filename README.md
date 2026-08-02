@@ -5,7 +5,7 @@ My work spans the end-to-end AI lifecycle, including data engineering, model dev
 
 I develop RAG pipelines, vector database integrations, embedding-based retrieval systems, and multi-agent architectures that enable AI systems to access, retrieve, and reason over domain-specific knowledge. I also build scalable cloud-native data pipelines, ETL/ELT workflows, and AI infrastructure that support reliable, secure, and high-performance production applications.
 
-I'm passionate about applying machine learning, deep learning, generative AI, and data engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include Data, AI, ML, MLOps, AI infrastructure, agentic AI, and retrieval systems.  
+I'm passionate about applying machine learning, deep learning, generative AI, and data engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include Data, AI, ML, MLOps, AI infrastructure, agentic AI, and retrieval systems in Healthcare and Insurance. 
 
 
 ## 🌐 Socials:
