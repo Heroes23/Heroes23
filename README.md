@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI/ML Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI and machine learning systems that solve real-world problems using predictive models, large language models, retrieval-augmented generation (RAG), and agentic AI.
+Hello, my name is Zaed Hussain, and I’m an AI/ML Engineer with a background in Applied Mathematics from the University of Illinois Chicago and Data Engineering from the University of Chicago. I build production AI systems that transform data into intelligent, real-world applications. My work focuses on designing, developing, and deploying scalable AI solutions using machine learning, deep learning, large language models (LLMs), retrieval-augmented generation (RAG), and agentic AI.
 
-My work spans the end-to-end AI lifecycle, including data engineering, model development, retrieval systems, agentic workflows, and production deployment. I design backend AI systems that integrate machine learning models, LLMs, external tools, APIs, and enterprise data to automate complex workflows and deliver intelligent decision-making.
+I develop AI applications that integrate LLMs, enterprise data, APIs, external tools, and agentic workflows to automate complex business processes and deliver intelligent decision-making. I build RAG pipelines, vector database integrations, embedding-based retrieval systems, and multi-agent architectures that enable AI systems to retrieve, reason over, and act on domain-specific knowledge.
 
-I develop RAG pipelines, vector database integrations, embedding-based retrieval systems, and multi-agent architectures that enable AI systems to access, retrieve, and reason over domain-specific knowledge. I also build scalable cloud-native data pipelines, ETL/ELT workflows, and AI infrastructure that support reliable, secure, and high-performance production applications.
+I design and develop predictive models using supervised and unsupervised learning techniques, engineer features from complex datasets, train and optimize machine learning and deep learning models, evaluate model performance, and deploy production-ready inference services for real-world applications. My work spans the complete machine learning lifecycle, from data preparation and experimentation to model optimization and production deployment.
 
-I'm passionate about applying machine learning, deep learning, generative AI, and data engineering to build scalable, trustworthy, and production-ready intelligent systems. My interests include Data, AI, ML, AIOps, MLOps, agentic AI, and retrieval systems. 
+I'm passionate about building intelligent software through AI engineering, machine learning engineering, generative AI, deep learning, agentic AI, LLM applications, and retrieval systems to create scalable, production-ready AI solutions that solve meaningful real-world problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
