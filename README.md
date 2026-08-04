@@ -5,7 +5,7 @@ I develop AI applications that integrate LLMs, enterprise data, APIs, external t
 
 I design and develop predictive models using supervised and unsupervised learning techniques, engineer features from complex datasets, train and optimize machine learning and deep learning models, evaluate model performance, and deploy production-ready inference services for real-world applications. My work spans the complete machine learning lifecycle, from data preparation and experimentation to model optimization and production deployment.
 
-I'm passionate about building intelligent software through AI engineering, machine learning engineering, generative AI, deep learning, agentic AI, LLM applications, and retrieval systems to create scalable, production-ready AI solutions that solve meaningful real-world problems in Biotech.
+I'm passionate about building intelligent software through AI engineering, machine learning engineering, generative AI, deep learning, agentic AI, LLM applications, and retrieval systems to create scalable, production-ready AI solutions that solve meaningful real-world problems in Healthtech.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
