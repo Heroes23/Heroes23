@@ -5,7 +5,7 @@ I develop AI applications that integrate LLMs, enterprise data, APIs, external t
 
 I build RAG systems, vector database integrations, embedding pipelines, and inference services that enable foundation models to retrieve, reason over, and generate responses from specialized datasets. I also develop scalable AI platforms and cloud-native applications that bring generative AI capabilities into reliable production environments.
 
-My background in applied mathematics, statistics, and data engineering allows me to build robust AI systems grounded in strong analytical foundations, scalable infrastructure, and engineering best practices. I am passionate about creating intelligent software through AI engineering, generative AI, agentic systems, LLM applications, and machine learning to solve meaningful real-world problems.
+My background in applied mathematics, statistics, computer science, and data engineering allows me to build robust AI systems grounded in strong analytical foundations, scalable infrastructure, and engineering best practices. I am passionate about creating intelligent software through AI engineering, generative AI, agentic systems, LLM applications, and machine learning to solve meaningful real-world problems.
 
 
 ## 🌐 Socials:
