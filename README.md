@@ -3,11 +3,11 @@ Hello, my name is Zaed Hussain, and I’m a Data & Machine Learning Engineer wit
 
 I build machine learning models and production ML pipelines using Python and modern frameworks including PyTorch, TensorFlow, and Scikit-learn. I work across model development, experimentation, training, evaluation, optimization, deployment, and inference, with a focus on building scalable, reliable, and measurable ML solutions. I also use MLflow and MLOps practices to support model lifecycle management, reproducibility, deployment, and monitoring.
 
-I also build AI data systems that connect machine learning and foundation models with enterprise data. This includes retrieval-augmented generation (RAG), embedding pipelines, vector databases, semantic search, knowledge retrieval, and AI-powered data applications. I develop systems that transform and index domain-specific data so ML and generative AI models can retrieve, process, and reason over relevant information in production environments.
+I also build intellignet data systems that connect machine learning, artificial intelligence, and foundation models with enterprise data. This includes retrieval-augmented generation (RAG), embedding pipelines, vector databases, semantic search, knowledge retrieval, and AI-powered data applications. I develop systems that transform and index domain-specific data so ML and generative AI models can retrieve, process, and reason over relevant information in production environments.
 
 My data engineering background enables me to build the scalable data infrastructure that powers these ML and AI systems. I develop batch and real-time data pipelines using Spark, PySpark, Airflow, Dagster, Snowflake, and Databricks, working across ETL/ELT, data processing, data integration, and cloud-based data platforms.
 
-My background in applied mathematics and statistics provides a strong foundation for quantitative modeling, machine learning, and experimentation, while my data engineering experience enables me to build reliable data foundations for production AI. I focus on combining mathematical and statistical modeling, machine learning, AI data systems, and scalable data infrastructure to build intelligent solutions that solve real-world problems.
+My background in applied mathematics and statistics provides a strong foundation for quantitative modeling, machine learning, and experimentation, while my data engineering experience enables me to build reliable data foundations for production AI. I focus on combining mathematical and statistical modeling, machine learning, data systems, and scalable data infrastructure to build intelligent solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
