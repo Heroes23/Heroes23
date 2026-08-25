@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI Engineer and Machine Learning Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI applications and machine learning systems.
+Hello, my name is Zaed Hussain, and I’m an AI and Machine Learning Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI applications and machine learning systems.
 
 My AI engineering work focuses on Generative AI, Large and Small Language Models (LLMs/SLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, knowledge retrieval, AI agents, and agentic AI workflows. I build end-to-end AI applications that connect models with data, retrieval systems, tools, APIs, and multi-step workflows to create production-ready AI systems.
 
 I build RAG and retrieval systems by developing data ingestion, transformation, and embedding pipelines; converting structured and unstructured data into searchable knowledge; generating and storing vector embeddings; and integrating vector databases and semantic search with LLM applications. I also develop AI agents and agentic workflows that enable models to retrieve information, use tools, interact with APIs, reason across multiple steps, and execute tasks using enterprise data and external systems.
 
-My Machine Learning engineering experience spans predictive modeling, Natural Language Processing (NLP), computer vision (CV), feature engineering, model development, training, evaluation, inference, and ML pipeline development. I use Python, PyTorch, scikit-learn, and other ML frameworks to build, evaluate, and operationalize machine learning models for real-world applications.
+My Machine Learning engineering experience spans predictive modeling, Natural Language Processing (NLP), computer vision (CV), feature engineering, model development, training, evaluation, inference, and ML pipeline development. I use Python, PyTorch, Scikit-learn, Tensorflow, and other ML frameworks to build, evaluate, and operationalize machine learning models for real-world applications.
 
 I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI/ML lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment within Healthcare, Insurance, Transportaion, and Aviation. 
 
