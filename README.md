@@ -1,13 +1,16 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m a Data & AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a certificate in Data Engineering from the University of Chicago. I specialize in building production AI agents and intelligent data systems. 
+Hello, my name is Zaed Hussain, and I’m an AI Engineer and Machine Learning Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI applications, machine learning systems, and intelligent data infrastructure.
 
-My AI engineering work focuses on Generative AI, Large and Small Language Models (LLMs/SLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, knowledge retrieval, AI agents, and agentic AI workflows. I build end-to-end AI applications that connect models with data, retrieval systems, tools, APIs, and multi-step workflows to create intelligent, production-ready applications.
+My AI engineering work focuses on Generative AI, Large and Small Language Models (LLMs/SLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, knowledge retrieval, AI agents, and agentic AI workflows. I build end-to-end AI applications that connect models with data, retrieval systems, tools, APIs, and multi-step workflows to create production-ready AI systems.
 
-I build RAG and retrieval systems by developing data ingestion and embedding pipelines, transforming unstructured and structured data into searchable knowledge, generating and storing vector embeddings, and integrating vector databases and semantic search with LLM applications. I also develop AI agents and agentic workflows that enable models to retrieve information, use tools, interact with APIs, reason across multiple steps, and execute tasks using enterprise data and external systems.
+I build RAG and retrieval systems by developing data ingestion, transformation, and embedding pipelines; converting structured and unstructured data into searchable knowledge; generating and storing vector embeddings; and integrating vector databases and semantic search with LLM applications. I also develop AI agents and agentic workflows that enable models to retrieve information, use tools, interact with APIs, reason across multiple steps, and execute tasks using enterprise data and external systems.
 
-I also build intelligent data systems that provide the data foundation for AI and machine learning applications. This includes data pipelines, data modeling, data transformation, feature engineering, data processing, knowledge pipelines, and AI-ready data infrastructure. I work with batch and real-time data using Python, SQL, Spark, PySpark, Airflow, Dagster, Snowflake, Databricks, AWS, and GCP.
+My Machine Learning engineering experience spans predictive modeling, Natural Language Processing (NLP), computer vision (CV), feature engineering, model development, training, evaluation, inference, and ML pipeline development. I use Python, PyTorch, scikit-learn, and other ML frameworks to build, evaluate, and operationalize machine learning models for real-world applications.
 
-I focus on combining AI engineering, intelligent data systems, machine learning, and data engineering to build scalable systems that transform data into intelligent applications.
+I also build the data systems that power AI and machine learning applications, including data pipelines, data modeling, data transformation, feature engineering, knowledge pipelines, and AI/ML-ready data infrastructure. I work with batch and real-time data using Python, SQL, Spark, PySpark, Airflow, Dagster, Snowflake, Databricks, AWS, and GCP.
+
+I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI/ML lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
