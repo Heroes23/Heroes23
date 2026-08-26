@@ -7,7 +7,7 @@ I build RAG and retrieval systems by developing data ingestion, transformation, 
 
 My Machine Learning engineering experience spans predictive modeling, Natural Language Processing (NLP), computer vision (CV), feature engineering, model development, training, evaluation, inference, and ML pipeline development. I use Python, PyTorch, Scikit-learn, Tensorflow, and other ML frameworks to build, evaluate, and operationalize machine learning models for real-world applications.
 
-I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI/ML lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment within Healthcare, Transportaion, and Aviation. 
+I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI/ML lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment within Healthcare and Aviation. 
 
 
 ## 🌐 Socials:
