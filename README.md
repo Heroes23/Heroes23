@@ -5,7 +5,7 @@ My AI engineering work focuses on Generative AI, Large and Small Language Models
 
 I build RAG and retrieval systems by developing data ingestion, transformation, and embedding pipelines; processing structured and unstructured data into searchable knowledge; generating and managing vector embeddings; and integrating vector databases and semantic search into LLM applications. I also develop AI agents and agentic workflows that enable models to retrieve information, use tools, interact with APIs, reason across multiple steps, and execute tasks using data and external systems.
 
-I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment across Healthcare and Aviation.
+I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment across Healthcare.
 
 
 
