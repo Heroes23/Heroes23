@@ -1,12 +1,11 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI applications and intelligent systems.
+Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI systems and intelligent applications powered by Generative AI, Large Language Models (LLMs), and Agentic AI.
 
-My AI engineering work focuses on Generative AI, Large and Small Language Models (LLMs/SLMs), Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, knowledge retrieval, AI agents, and agentic AI workflows. I build end-to-end AI applications that connect models with data, retrieval systems, tools, APIs, and multi-step workflows to create scalable, production-ready AI systems. I also work with Python, PyTorch, Scikit-learn, TensorFlow, and other AI frameworks to develop and deploy AI solutions.
+My AI engineering expertise includes Generative AI, LLMs, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, AI agents, agentic workflows, tool calling, and multi-agent systems. I build end-to-end AI applications that integrate LLMs with retrieval pipelines, vector search, tools, APIs, memory, and multi-step agent workflows to develop reliable, scalable, production-ready AI systems.
 
-I build RAG and retrieval systems by developing data ingestion, transformation, and embedding pipelines; processing structured and unstructured data into searchable knowledge; generating and managing vector embeddings; and integrating vector databases and semantic search into LLM applications. I also develop AI agents and agentic workflows that enable models to retrieve information, use tools, interact with APIs, reason across multiple steps, and execute tasks using data and external systems.
+I work with Python, PyTorch, Scikit-learn, TensorFlow, LangChain, LangGraph, ADK, and other AI frameworks to develop, evaluate, and deploy LLM-powered and agentic AI applications. I also leverage my background in data engineering and applied mathematics to build the data pipelines, retrieval systems, and ML foundations that support production AI.
 
-I combine applied mathematics, statistics, machine learning, AI engineering, and data engineering to build scalable systems across the AI lifecycle — from data and model development to LLM applications, retrieval systems, agentic workflows, and production deployment.
-
+My focus is on building AI systems across the lifecycle—from data and model development to LLM applications, RAG, agentic workflows, evaluation, and production deployment.
 
 
 ## 🌐 Socials:
