@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I’m an AI/ML Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI systems and intelligent applications powered by Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and Agentic AI.
+Hello, my name is Zaed Hussain, and I’m an AI Engineer with a background in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI systems and intelligent applications powered by Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and Agentic AI.
 
 My AI/ML engineering expertise includes machine learning, deep learning, Generative AI, LLMs, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic search, AI agents, agentic workflows, tool calling, and multi-agent systems. I build end-to-end AI applications that integrate ML and deep learning models with retrieval pipelines, vector search, tools, APIs, memory, and multi-step agent workflows to develop reliable, scalable, production-ready AI systems.
 
