@@ -5,7 +5,7 @@ My AI/ML engineering expertise includes Machine Learning, Deep Learning, Generat
 
 I work with Python, PyTorch, Scikit-learn, TensorFlow, LangChain, LangGraph, ADK, and other AI frameworks to develop, evaluate, and deploy machine learning, deep learning, LLM-powered, and agentic AI applications. I also leverage my background in data engineering and applied mathematics to build data pipelines, ML workflows, MLOPs, Data Drift, retrieval systems, and the mathematical and computational foundations that support production AI.
 
-My focus is on building AI systems across the lifecycle—from data and model development to machine learning, deep learning, Generative AI, LLM applications, RAG, agentic workflows, model evaluation, and production deployment. I’m particularly interested in the intersection of deep learning, Generative AI, LLMs, and intelligent AI systems within Healthcare and Insurance. 
+My focus is on building AI systems across the lifecycle—from data and model development to machine learning, deep learning, Generative AI, LLM applications, RAG, agentic workflows, model evaluation, and production deployment. I’m particularly interested in the intersection of deep learning, Generative AI, LLMs, and intelligent AI systems within Healthcare. 
 
 
 ## 🌐 Socials:
