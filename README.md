@@ -5,7 +5,7 @@ My AI engineering expertise includes Generative AI, LLMs, deep learning, Retriev
 
 I work with Python, PyTorch, LangChain, LangGraph, Langserve, Litserve, ADK, and other AI frameworks to develop, evaluate, and deploy generative AI systems, LLM-powered, and agentic AI systems. I also leverage my background in applied mathematics and data engineering to develop AI platforms, automate tasks, build AI data and retrieval pipelines, and create the infrastructure that supports production AI.
 
-My focus is on building AI systems across the lifecycle—from data and deep learning to Generative AI and Agentic AI, including LLMs, RAG, agentic workflows, agent evaluation, and production deployment. I am particularly interested in the intersection of deep learning, Generative AI, LLMs, and intelligent AI systems within Finance.
+My focus is on building AI systems across the lifecycle—from data and deep learning to Generative AI and Agentic AI, including LLMs, RAG, agentic workflows, agent evaluation, and production deployment. I am particularly interested in the intersection of deep learning, Generative AI, LLMs, and intelligent AI systems within Healthcare.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
