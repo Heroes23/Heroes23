@@ -1,11 +1,9 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I'm an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI systems and intelligent applications powered by Generative AI, Agentic AI, Large Language Models (LLMs), and Deep Learning. 
+Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering certificate from the University of Chicago. I specialize in building production AI systems and intelligent applications powered by Generative AI, Agentic AI, Large Language Models (LLMs), and Deep Learning within Financial Services and Insurance. 
 
 My AI engineering expertise includes Generative AI, LLMs, deep learning, Retrieval-Augmented Generation (RAG), embeddings, vector databases, chunking strategies, AI agents, agentic workflows, tool calling, single and multi-agent systems. I build end-to-end AI systems that integrate machine learning and deep learning models with retrieval pipelines, vector search, tools, APIs, memory, and multi-step agent workflows to develop reliable, scalable, production-ready AI applications.
 
-I work with Python, PyTorch, LangChain, LangGraph, Langserve, Litserve, ADK, and other AI frameworks to develop, evaluate, and deploy generative AI systems, LLM-powered, and agentic AI systems. I also leverage my background in applied mathematics and data engineering to develop AI platforms, automate tasks, build AI data and retrieval pipelines, and create the infrastructure that supports production AI.
-
-My focus is on building AI systems across the lifecycle—from data and deep learning to Generative AI and Agentic AI, including LLMs, RAG, agentic workflows, agent evaluation, and production deployment. I am particularly interested in the intersection of deep learning, Generative AI, LLMs, and intelligent AI systems within Financial Services and Insurance.
+I work with Python, PyTorch, LangChain, LangGraph, Langserve, Litserve, ADK, and other AI frameworks to develop, evaluate, and deploy generative AI, LLM-powered, and agentic AI systems. I also leverage my background in applied mathematics and data engineering to deepen my understanding of the mathematical foundations, underlying algorithms, and optimization techniques behind generative and agentic AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
