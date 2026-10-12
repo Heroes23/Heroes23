@@ -3,9 +3,9 @@ Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied M
 
 My expertise spans LLM-powered applications, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, tool calling, and single - and multi-agent systems. I build end-to-end AI solutions that integrate language models, retrieval architectures, external tools, APIs, and agent orchestration to deliver reliable, scalable applications.
 
-Beyond AI application development, I leverage my data engineering background to build intelligent data systems, AI-driven data pipelines, and autonomous data engineering agents. My interests include developing AI-powered data engines and intelligent workflows that connect data processing, retrieval, monitoring, and decision-making to enable more adaptive and automated data operations.
+Beyond AI application development, I leverage my data engineering background to build reliable, scalable AI applications that integrate LLMs, data sources, APIs, and external tools. My interests include developing advanced RAG architectures, single- and multi-agent systems, and autonomous AI workflows that enable intelligent retrieval, reasoning, tool use, and decision-making.
 
-I work with Python, PySpark, PyTorch, LangChain, LangGraph, and other frameworks for building, evaluating, and deploying AI applications. Drawing on my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and optimization techniques to improve the design, performance, and reliability of AI applications and data-intensive systems.
+I work with Python, PySpark, PyTorch, LangChain, LangGraph, and other frameworks for building, evaluating, and deploying AI applications. Drawing on my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and optimization techniques to improve the design, performance, and reliability of AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
