@@ -1,11 +1,9 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago. I specialize in designing, building, and deploying production-ready AI applications and systems powered by Generative AI, Large Language Models (LLMs), agentic AI, and deep learning.
+Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago. I specialize in designing, building, and deploying production-ready AI applications powered by Generative AI, Large Language Models (LLMs), and agentic AI.
 
-My expertise spans LLM-powered applications, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, tool calling, and agentic systems. I build end-to-end AI solutions that integrate language models, retrieval architectures, external tools, APIs, and agent orchestration to deliver reliable, scalable applications.
+My expertise spans LLM-powered applications, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, and LLM integration. I build GenAI applications and agentic systems that integrate language models, retrieval architectures, external tools, APIs, and orchestration frameworks to enable intelligent information retrieval, reasoning, and task execution.
 
-Beyond AI application development, I leverage my data engineering background to build reliable, scalable AI applications that integrate LLMs, data sources, APIs, and external tools. My interests include developing advanced RAG architectures, single - and multi-agent systems, and autonomous AI workflows that enable intelligent retrieval, reasoning, tool use, and decision-making.
-
-I work with Python, PySpark, PyTorch, LangChain, LangGraph, and other frameworks for building, evaluating, and deploying AI applications. Drawing on my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and optimization techniques to improve the design, performance, and reliability of AI systems.
+My interests include developing advanced RAG architectures, tool-using AI agents, single- and multi-agent systems, and autonomous workflows that can plan, reason, and execute complex tasks. Leveraging my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and data integration techniques to build reliable, scalable GenAI applications and agentic AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
