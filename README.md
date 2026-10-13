@@ -3,7 +3,7 @@ Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied M
 
 My expertise spans LLM-powered applications, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, and LLM integration. I build GenAI applications and agentic systems that integrate language models, retrieval architectures, external tools, APIs, and orchestration frameworks to enable intelligent information retrieval, reasoning, and task execution.
 
-My interests include developing advanced RAG architectures, vector search algorithms, tool-using AI agents, single and multi-agent systems, and autonomous workflows that can plan, reason, and execute complex tasks. Leveraging my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and data integration techniques to build reliable, scalable GenAI applications and agentic AI systems.
+My interests include developing advanced RAG architectures, vector search algorithms, tool-using AI agents, single and multi-agent systems, and autonomous workflows that can plan, reason, and execute complex tasks. Leveraging my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and data integration techniques to build reliable, scalable GenAI applications and Agentic AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
