@@ -1,9 +1,13 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago. I specialize in designing, building, and deploying production-ready AI applications powered by Generative AI, Large Language Models (LLMs), and agentic AI. My work spans GenAI application development, agentic system engineering, and research into emerging AI techniques.
+Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago. I specialize in designing, building, and deploying production-ready AI applications powered by Generative AI, Large Language Models (LLMs), deep learning, and agentic AI. My work spans GenAI application development, agentic system engineering, and research into emerging AI techniques.
 
 My expertise spans Retrieval-Augmented Generation (RAG), embedding models, vector databases, semantic and hybrid search, retrieval pipelines, and LLM integration. I develop AI applications and agentic systems that combine language models, retrieval architectures, external tools, APIs, and orchestration frameworks to enable intelligent information retrieval, contextual reasoning, and autonomous task execution through single-agent and multi-agent workflows.
 
-My technical interests include advanced RAG architectures, vector search optimization, retrieval algorithms, agent orchestration, and autonomous workflows, alongside research into LLM fine-tuning and inference optimization techniques. I am also interested in exploring quantum computing approaches to Generative AI and agentic AI, including their potential applications in model optimization, search, and reasoning. Drawing on my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and data engineering techniques to improve retrieval quality, optimize AI workflows, and build reliable, scalable AI systems.
+My technical interests include advanced RAG architectures, vector search optimization, retrieval algorithms, agent orchestration, and autonomous workflows, alongside research into LLM fine-tuning and inference optimization techniques. 
+
+I am also interested in exploring quantum computing approaches to Generative AI and Agentic AI, including their potential applications in model optimization, search, and reasoning. 
+
+Drawing on my background in applied mathematics and data engineering, I apply mathematical reasoning, algorithmic principles, and data engineering techniques to improve retrieval quality, optimize AI workflows, and build reliable, scalable AI systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
