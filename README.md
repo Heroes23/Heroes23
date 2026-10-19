@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago, with a focus in Insurance. 
+Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago. 
 
 I specialize in designing, building, evaluating, and deploying production-ready AI systems spanning Generative AI (GenAI), Large Language Models (LLMs), and Agentic AI. My work encompasses the development of LLM-powered applications, intelligent retrieval systems, autonomous AI agents, and multi-agent architectures that integrate models, data, tools, and external services to solve complex problems.
 
