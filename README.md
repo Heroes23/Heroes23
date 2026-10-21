@@ -3,7 +3,7 @@ Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied M
 
 I specialize in designing, building, evaluating, and deploying production-ready AI applications, autonomous agents, and multi-agent systems. My work focuses on LLM-powered agent architectures, reasoning, tool calling, API integrations, workflow orchestration, and inter-agent communication to enable AI systems to execute complex, multi-step tasks.  
 
-My technical interests span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore model fine-tuning, inference optimization, evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
+My technical interests span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
 
 Drawing on my background in applied mathematics and data engineering, I engineer AI solutions end to end—from data and retrieval infrastructure to agent orchestration, application development, and deployment.
 
