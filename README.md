@@ -5,6 +5,8 @@ I specialize in designing, building, evaluating, and deploying production-ready 
 
 My technical interests span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
 
+Alongside AI application development, I work with AI data engineering and data infrastructure to support the full AI lifecycle. This includes building data pipelines, developing ETL/ELT workflows, preparing and transforming data for AI applications, managing document ingestion and embedding pipelines, and integrating structured and unstructured data sources with vector databases and retrieval systems. I am also interested in data quality, data orchestration, metadata management, and scalable data architectures that support reliable AI workloads.
+
 Drawing on my background in applied mathematics and data engineering, I engineer AI solutions end to end—from data and retrieval infrastructure to agent orchestration, application development, and deployment.
 
 ## 🌐 Socials:
