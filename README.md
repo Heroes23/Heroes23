@@ -3,9 +3,9 @@ Hello, my name is Zaed Hussain, and I am an AI/ML Engineer with a B.S. in Applie
 
 I specialize in designing, building, evaluating, and deploying AI applications and machine learning models. My expertise spans predictive modeling, statistical learning, classification, regression, neural networks, deep learning, and Generative AI. I apply mathematical and statistical principles to develop models and AI systems that solve complex, real-world problems.
 
-My machine learning work includes feature engineering, model development, performance evaluation, hyperparameter optimization, and predictive analytics. I am interested in developing and evaluating models that identify patterns, generate predictions, and support data-driven decision-making.
+My machine learning work includes supervised and unsupervised learning, feature engineering, model development, performance evaluation, hyperparameter optimization, and predictive analytics. I am interested in developing and evaluating models that identify patterns, generate predictions, and support data-driven decision-making.
 
-My Generative and Agentic AI work focuses on building LLM-powered applications, autonomous agents, and multi-agent systems. My technical interests include LLM integration, reasoning, tool calling, API integrations, workflow orchestration, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, and retrieval optimization.
+My generative and agentic AI work focuses on building LLM-powered applications, autonomous agents, and multi-agent systems. My technical interests include LLM integration, reasoning, tool calling, API integrations, workflow orchestration, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, and retrieval optimization.
 
 Drawing on my background in applied mathematics, I approach AI/ML engineering across the development lifecycle, from statistical modeling and predictive analytics to deep learning, Generative AI, agent architecture, evaluation, optimization, and production deployment.
 
