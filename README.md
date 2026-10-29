@@ -1,13 +1,13 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an AI and Data Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago with a focus in Insurance. 
+Hello, my name is Zaed Hussain, and I am an AI/ML Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago with a focus in Insurance. 
 
-I specialize in designing, building, evaluating, and deploying production-ready AI applications, autonomous agents, and multi-agent systems. My work focuses on LLM-powered agent architectures, reasoning, tool calling, API integrations, workflow orchestration, and inter-agent communication to enable AI systems to execute complex, multi-step tasks.  
+I specialize in designing, building, evaluating, and deploying AI applications and machine learning models. My expertise spans predictive modeling, statistical learning, classification, regression, neural networks, deep learning, and Generative AI. I apply mathematical and statistical principles to develop models and AI systems that solve complex, real-world problems.
 
-My technical expertise span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
+My machine learning work includes feature engineering, model development, performance evaluation, hyperparameter optimization, and predictive analytics. I am interested in developing and evaluating models that identify patterns, generate predictions, and support data-driven decision-making.
 
-My sub-specialization is applying AI engineering to data-intensive systems. I am particularly interested in building intelligent data systems and data agents that combine LLMs, retrieval infrastructure, and agentic workflows with databases, data pipelines, and structured and unstructured data sources. This includes developing RAG pipelines, embedding workflows, vector search infrastructure, and AI agents that automate data retrieval, querying, analysis, transformation, and orchestration.
+My Generative and Agentic AI work focuses on building LLM-powered applications, autonomous agents, and multi-agent systems. My technical interests include LLM integration, reasoning, tool calling, API integrations, workflow orchestration, Retrieval-Augmented Generation (RAG), embeddings, vector databases, semantic and hybrid search, and retrieval optimization.
 
-Drawing on my background in applied mathematics and data engineering, I approach AI engineering end to end—from LLM integration and retrieval systems to agent architecture, data infrastructure, evaluation, and production deployment.
+Drawing on my background in applied mathematics, I approach AI/ML engineering across the development lifecycle, from statistical modeling and predictive analytics to deep learning, Generative AI, agent architecture, evaluation, optimization, and production deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
