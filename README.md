@@ -3,11 +3,11 @@ Hello, my name is Zaed Hussain, and I am an AI and Data Engineer with a B.S. in 
 
 I specialize in designing, building, evaluating, and deploying production-ready AI applications, autonomous agents, and multi-agent systems. My work focuses on LLM-powered agent architectures, reasoning, tool calling, API integrations, workflow orchestration, and inter-agent communication to enable AI systems to execute complex, multi-step tasks.  
 
-My technical interests span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
+My technical expertise span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
 
-Alongside AI application development, I work with AI data engineering and data infrastructure to support the full AI lifecycle. This includes building data pipelines, developing ETL/ELT workflows, preparing and transforming data for AI applications, managing document ingestion and embedding pipelines, and integrating structured and unstructured data sources with vector databases and retrieval systems. I am also interested in data quality, data orchestration, metadata management, and scalable data architectures that support reliable AI workloads.
+A key area of specialization is applying AI engineering to data-intensive systems. I am particularly interested in building intelligent data systems and data agents that combine LLMs, retrieval infrastructure, and agentic workflows with databases, data pipelines, and structured and unstructured data sources. This includes developing RAG pipelines, embedding workflows, vector search infrastructure, and AI agents that automate data retrieval, querying, analysis, transformation, and orchestration.
 
-Drawing on my background in applied mathematics and data engineering, I engineer AI solutions end to end—from data and retrieval infrastructure to agent orchestration, application development, and deployment.
+Drawing on my background in applied mathematics and data engineering, I approach AI engineering end to end—from LLM integration and retrieval systems to agent architecture, data infrastructure, evaluation, and production deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
