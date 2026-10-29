@@ -5,7 +5,7 @@ I specialize in designing, building, evaluating, and deploying production-ready 
 
 My technical expertise span Agentic AI, LLM application engineering, Retrieval-Augmented Generation (RAG), vector database integration, semantic and hybrid search, and retrieval optimization. I also explore LLM fine-tuning, inference optimization, AI application evaluation, and model serving to improve the reliability, efficiency, and scalability of production AI systems.
 
-A key area of specialization is applying AI engineering to data-intensive systems. I am particularly interested in building intelligent data systems and data agents that combine LLMs, retrieval infrastructure, and agentic workflows with databases, data pipelines, and structured and unstructured data sources. This includes developing RAG pipelines, embedding workflows, vector search infrastructure, and AI agents that automate data retrieval, querying, analysis, transformation, and orchestration.
+My sub-specialization is applying AI engineering to data-intensive systems. I am particularly interested in building intelligent data systems and data agents that combine LLMs, retrieval infrastructure, and agentic workflows with databases, data pipelines, and structured and unstructured data sources. This includes developing RAG pipelines, embedding workflows, vector search infrastructure, and AI agents that automate data retrieval, querying, analysis, transformation, and orchestration.
 
 Drawing on my background in applied mathematics and data engineering, I approach AI engineering end to end—from LLM integration and retrieval systems to agent architecture, data infrastructure, evaluation, and production deployment.
 
