@@ -7,7 +7,7 @@ My Generative AI engineering interests focus on LLM integration, application arc
 
 My Agentic AI work focuses on designing and implementing autonomous agents, multi-agent systems, and intelligent workflows. My technical interests include agent architecture, reasoning and planning, tool calling, function calling, API integrations, workflow orchestration, state management, memory, inter-agent communication, Model Context Protocol (MCP), and Agent-to-Agent (A2A) communication. I build AI workflows that connect LLMs, retrieval systems, databases, and external services to support complex tasks, automation, research, and decision-making.
 
-My technical foundation extends into machine learning, neural networks, deep learning, and Transformer architectures, including attention mechanisms, representation learning, and foundation models. Drawing on my background in applied mathematics and data engineering, I apply these foundations to understand, integrate, evaluate, and optimize the models and infrastructure underlying modern AI applications. 
+My technical foundation extends into machine learning, neural networks, deep learning, and transformer architectures, including attention mechanisms, representation learning, and foundation models. Drawing on my background in applied mathematics and data engineering, I apply these foundations to understand, integrate, evaluate, and optimize the models and infrastructure underlying modern AI applications. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
