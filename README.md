@@ -15,8 +15,6 @@ My technical foundation extends into data analytics, data engineering, machine l
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ai_engineering_channel?igsh=aW5mdTBqcTNqNnd2&utm_source=qr)
-[![Tiktok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/@ai_engineering_channel)
 [![Youtube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://www.youtube.com/@ai_engineering_channel)
 
 # 💻 Tech Stack:
