@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Zaed Hussain, and I am an Agentic AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago with a focus in Insurance. 
+Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago with a focus in Insurance. 
 
 I specialize in designing, architecting, building, evaluating, and deploying production-ready Agentic AI systems and intelligent applications, with an emphasis on autonomous agents, multi-agent systems, Generative AI, and Large Language Models (LLMs). My expertise includes agent architecture, multi-agent orchestration, reasoning and planning, tool and function calling, API integrations, Model Context Protocol (MCP), Agent2Agent (A2A), Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic and hybrid search. I focus on connecting AI agents with structured and unstructured data, enterprise systems, external APIs, and specialized tools to develop scalable, context-aware AI systems capable of reasoning, coordinating tasks, and autonomously executing complex workflows.
 
