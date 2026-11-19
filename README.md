@@ -3,9 +3,6 @@ Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied M
 
 I specialize in designing, architecting, building, evaluating, and deploying production-ready Agentic AI systems and intelligent applications, with an emphasis on autonomous agents, multi-agent systems, Generative AI, and Large Language Models (LLMs). My expertise includes agent architecture, multi-agent orchestration, reasoning and planning, tool and function calling, API integrations, Model Context Protocol (MCP), Agent2Agent (A2A), Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic and hybrid search. I focus on connecting AI agents with structured and unstructured data, enterprise systems, external APIs, and specialized tools to develop scalable, context-aware AI systems capable of reasoning, coordinating tasks, and autonomously executing complex workflows.
 
-My Agentic AI interest focuses on designing and implementing autonomous agents, multi-agent systems, and intelligent workflows. My technical interests include agent architecture, reasoning and planning, tool calling, function calling, API integrations, workflow orchestration, state management, memory, inter-agent communication, Model Context Protocol (MCP), and Agent-to-Agent (A2A) communication. I build AI workflows that connect LLMs, retrieval systems, databases, and external services to support complex tasks, automation, research, and decision-making.
-
-
 My technical foundation extends into data analytics, data engineering, machine learning, neural networks, deep learning, and transformer architectures, including attention mechanisms, representation learning, and foundation models. Drawing on my background in applied mathematics and data engineering, I apply these foundations to understand, integrate, evaluate, and optimize the models and infrastructure underlying modern AI applications. 
 
 ## 🌐 Socials:
