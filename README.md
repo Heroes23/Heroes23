@@ -9,6 +9,7 @@ I draw on my background in applied mathematics, data engineering, machine learni
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noors_analytics/?hl=en)
 [![Youtube](https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=EEEEEE)](https://www.youtube.com/@noors_analytics)
 
 # 💻 Tech Stack:
