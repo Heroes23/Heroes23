@@ -1,9 +1,11 @@
 # 💫 About Me:
 Hello, my name is Zaed Hussain, and I am an AI Engineer with a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago with a focus in Insurance. 
 
-I specialize in designing, architecting, building, evaluating, and deploying production-ready Agentic AI systems and intelligent applications, with an emphasis on autonomous agents, multi-agent systems, Generative AI, and Large Language Models (LLMs). My expertise includes agent architecture, multi-agent orchestration, reasoning and planning, tool and function calling, API integrations, Model Context Protocol (MCP), Agent2Agent (A2A), Retrieval-Augmented Generation (RAG), embeddings, vector databases, and semantic and hybrid search. I focus on connecting AI agents with structured and unstructured data, enterprise systems, external APIs, and specialized tools to develop scalable, context-aware AI systems capable of reasoning, coordinating tasks, and autonomously executing complex workflows.
+I design, build, evaluate and deploy agentic AI applications powered by LLMs. I focus on connecting agents to enterprise data, APIs and tools so they can carry out multi-step workflows.
 
-My technical foundation extends into data analytics, data engineering, machine learning, neural networks, deep learning, and transformer architectures, including attention mechanisms, representation learning, and foundation models. Drawing on my background in applied mathematics and data engineering, I apply these foundations to understand, integrate, evaluate, and optimize the models and infrastructure underlying modern AI applications. 
+My expertise includes multi-agent orchestration, tool calling, MCP, A2A, retrieval-augmented generation (RAG) with vector search as well as agent evaluation and observability.
+
+I draw on my background in applied mathematics, data engineering, machine learning, and transformer models to select and evaluate models and build reliable LLM and agentic AI applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
