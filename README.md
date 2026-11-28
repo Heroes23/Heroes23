@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am an Agentic AI Data Engineer applying agentic AI to data engineering. I hold a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago and I have a deep focus within the Insurance Industry.
+I am an AI Engineer specializing in Agentic AI Engineering. I hold a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago and I have a deep focus within the Insurance Industry. 
 
-I combine data engineering and agentic AI to build intelligent data systems and automate data workflows. I focus on connecting agents to enterprise data, APIs and tools so they can carry out multi-step data workflows.
+I design, build, evaluate, and deploy agentic AI applications powered by LLMs. I focus on connecting agents to enterprise data, APIs and tools so they can carry out multi-step workflows.
 
 My expertise includes multi-agent orchestration, tool calling, MCP, A2A, and retrieval-augmented generation (RAG) with vector search as well as agent evaluation and observability.
 
-I draw on my background in applied mathematics and data engineering to build reliable data systems and agentic AI applications.
+I draw on my background in applied mathematics, data engineering, machine learning, and transformer models to select and evaluate models and build reliable LLM and agentic AI applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaed-hussain-b7237339/) 
