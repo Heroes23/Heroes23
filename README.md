@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Agentic Data Engineer applying agentic AI to data engineering. I hold a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago and I have a deep focus within the Insurance Industry.
+I am an Agentic AI Data Engineer applying agentic AI to data engineering. I hold a B.S. in Applied Mathematics from the University of Illinois Chicago and a Data Engineering Certificate from the University of Chicago and I have a deep focus within the Insurance Industry.
 
 I combine data engineering and agentic AI to build intelligent data systems and automate data workflows. I focus on connecting agents to enterprise data, APIs and tools so they can carry out multi-step data workflows.
 
